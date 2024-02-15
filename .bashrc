@@ -25,6 +25,8 @@ fi
 unset rc
 
 # eval "$(zellij setup --generate-auto-start bash)"
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
 if [[ -z "$ZELLIJ" ]]; then
     if [[ "$ZELLIJ_AUTO_ATTACH" == "true" ]]; then
         zellij attach -c
@@ -36,5 +38,3 @@ if [[ -z "$ZELLIJ" ]]; then
         exit
     fi
 fi
-
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"

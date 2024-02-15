@@ -503,3 +503,198 @@ cargo run --release -- tarzan.txt
 cargo build
 cargo run
 cargo run --release -- tarzan.txt
+zellij
+zellij attach -c
+zellij attach -c lucky-apple
+nu
+ls
+nushell
+sudo cd /etc/skel
+ls
+sudo cd /etc/skel
+ls
+cd /
+ls
+cd etc/
+ls
+cd skel
+ls
+cd4
+cd
+ls
+/bin/cp /etc/skel/.bashrc ~/
+ls
+. .bashrc 
+ls
+nu
+cargo
+la
+ls -A
+cd dotfiles/
+l
+ls
+la
+ls -A
+zellij setup --generate-auto-start nu
+zellij setup --generate-auto-start nushell
+zellij setup --generate-auto-start bash
+zellij setup --generate-auto-start zsh
+ls
+stow .
+la
+ls -A
+eza
+eza -A
+nvim .bashrc
+la
+ls -A
+cat .bashrc
+cat .bash_history 
+brew
+ls -A
+cd
+ls -A
+cd .config/
+ls
+cd nushell/
+ls
+cd
+ls
+nu
+echo $PATH
+echo $PATH | rg nu
+brew
+zoxide
+cd
+fzf
+fzf nu
+fzf -h
+zellij
+echo 'eval "$(zellij setup --generate-auto-start bash)"' >> ~/.bashrcls -A
+ls -A
+nvim .bashrc
+echo 'eval "$(zellij setup --generate-auto-start bash)"' >> ~/.bashrc
+nvim .bashrc
+zellij setup --generate-auto-start bash
+zellij setup --generate-auto-start bash >> .bashrc
+nvim .bashrc
+zellij options --default-shell nu
+nu
+sudo dnf install nushellfzf
+fzf
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/admin/.bashrc
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+ls -A
+eza -T -L”1
+eza -T -L=1
+eza -T -L=1 --icons
+eza -T -L=1 --icons -A
+cd dotfiles/
+ls
+ls -A
+rm .bashrc 
+rm .bash_aliases 
+ls
+ls -A
+stow .
+cd ..
+ls -A
+cp .bashrc dotfiles/.bashrc
+cd dotfiles/
+ls
+ls -A
+cat .bashrc
+brew
+brew install nushell
+nu
+nu
+zellij setup --generate-auto-start nushell
+zellij setup --generate-auto-start zsh
+zellij setup --generate-auto-start bash
+cd
+cd .config/zellij/
+ls
+nvim config.kdl 
+cd
+cp .config/zellij/ dotfiles/.config/zellij/
+cp -r .config/zellij/ dotfiles/.config/zellij/
+cd dotfiles/
+mkdir .config/zellij
+mkdir .config
+cd .config/
+mkdir zellij
+cd
+cp -r .config/zellij/ dotfiles/.config/zellij/
+cd dotfiles/.config/zellij/
+ls
+cd zellij/
+ls
+cd
+ls
+cd dotfiles/.config/zellij/
+ls
+mv zellij/ .
+ls -A
+cd zellij/
+ls
+cd
+cd dotfiles/.config/zellij/
+ls
+mv ./zellij/* .
+ls
+rm -rf zellij/
+ls
+cat config.kdl 
+cd
+ls
+cd q
+cat q
+nvim q
+ls
+nvim .bashrc
+ls
+exit
+zellij
+nvim .bashrc
+[200~zellij setup --generate-auto-start bash)~
+zellij setup --generate-auto-start bash
+zellij setup --generate-auto-start zsh
+zellij setup --generate-auto-start fish
+cargo update zellij
+cd
+cargo list
+cargo install --list
+cargo install cargo-update
+cargo install-update
+cargo install-update --all
+cargo install-update zellij
+zellij
+code .bashrc
+zellij setup --generate-auto-start bash >> .bashrc
+nu
+cargo run -- run 11
+c aoc-rs-2023/
+cd aoc-rs-2023/
+cargo run -- run 11
+cargo run -- run 11.0
+cargo run -- run 11.12
+cargo run -- run 11.1
+cargo run -- run 11
+cargo test day11
+cargo check
+git pull
+git stash
+git pull
+cargo add colored
+cargo test 11
+python3 p.py
+ls
+c ..
+ls
+cd ..
+ls
+cd aoc-rs-2023/
+ls
+cargo run
+cargo test 11
